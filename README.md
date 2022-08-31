@@ -1,2 +1,4 @@
 # Hashing and Hash Table
-hashing and hash functions, hash table
+- Hashing
+- Hash functions
+- Hash table
